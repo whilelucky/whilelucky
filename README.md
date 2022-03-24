@@ -8,17 +8,17 @@
   </a>
 </p>
 
-<p>🌱 I’m currently learning **Web3 Technologies**</p>
+<p>🌱 I’m currently learning <strong>Web3 Technologies</strong></p>
 
-<p>👨‍💻 All of my projects are available at [https://github.com/whilelucky](https://github.com/whilelucky)</p>
+<p>👨‍💻 All of my projects are available at <a href="https://github.com/whilelucky">github.com/whilelucky</a></p>
 
-<p>📝 I regularly write articles on [https://whilelucky.codes/](https://whilelucky.codes/)</p>
+<p>📝 I regularly write articles on <a href="https://whilelucky.codes">whilelucky.codes</a></p>
 
-<p>💬 Ask me about **Developer Experience & Tooling, React, GraphQL, Web3**</p>
+<p>💬 Ask me about <strong>Developer Experience & Tooling, React, GraphQL, Web3</strong></p>
 
-<p>📄 Know about my experiences [https://www.linkedin.com/in/lakshyaranganath/](https://www.linkedin.com/in/lakshyaranganath/)</p>
+<p>📄 Know about my experiences <a href="https://www.linkedin.com/in/lakshyaranganath">linkedin.com/in/lakshyaranganath</a></p>
 
-<p>⚡ Fun fact **I love building PCs from scratch and binging a great show**</p>
+<p>⚡ Fun fact <strong>I love building PCs from scratch and binging a great show</strong></p>
 
 <h4 align="left">Connect with me</h4>
 <p align="left">
